@@ -1,2 +1,2 @@
 # Benchmarking-Videos
-Some helpful performance testing.
+Some helpful benchmarking performance tests for C# .NET developers.
