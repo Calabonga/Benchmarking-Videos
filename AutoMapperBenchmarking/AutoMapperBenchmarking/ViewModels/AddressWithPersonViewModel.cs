@@ -1,4 +1,4 @@
-﻿namespace AutoMapperBenchmarking;
+﻿namespace AutoMapperBenchmarking.ViewModels;
 
 public class AddressWithPersonViewModel
 {

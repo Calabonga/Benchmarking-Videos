@@ -1,4 +1,4 @@
-﻿namespace AutoMapperBenchmarking;
+﻿namespace AutoMapperBenchmarking.Models;
 
 public class Pet
 {

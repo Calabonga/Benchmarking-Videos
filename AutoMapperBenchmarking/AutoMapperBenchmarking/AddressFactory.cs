@@ -1,4 +1,6 @@
-﻿namespace AutoMapperBenchmarking;
+﻿using AutoMapperBenchmarking.Models;
+
+namespace AutoMapperBenchmarking;
 
 public static class AddressFactory
 {

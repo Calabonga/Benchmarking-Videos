@@ -1,6 +1,8 @@
 ﻿using AutoMapper;
-using AutoMapperBenchmarking;
+using AutoMapperBenchmarking.Models;
 using BenchmarkDotNet.Attributes;
+
+namespace AutoMapperBenchmarking.ViewModels;
 
 [MemoryDiagnoser]
 public class AutoMapperBenchmarks
